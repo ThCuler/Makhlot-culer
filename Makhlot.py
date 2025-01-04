@@ -1,0 +1,12 @@
+
+xxx = input ("link xxx : ")
+dxript = input("dxript : ")
+bag = input("bag : ")
+hsas = input("link hasas : ")
+server = input("server : ")
+porn = input("link porn : ")
+algoritm = input("algoritm : ")
+mokhareb = input("mokhareb")
+tarjomh= input("tarjomh")
+cod = (dxript)+")"+(bag)+"("+(hsas)+")"+(server)+'('+(xxx)+")"+(algoritm)+"("+(mokhareb)+")"+(porn)+"("+(tarjomh)
+print (cod)
